@@ -13,3 +13,4 @@ Paste the `h()` function into the `.bashrc` file.
 h query
 ```
 
+Requires bash 4.0.
